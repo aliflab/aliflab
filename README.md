@@ -3,6 +3,7 @@
 I'm an **IT Systems Professional & AI enthusiast** based in Wollongong, NSW. By day I manage enterprise IT infrastructure across multiple brand entities, overseeing Microsoft 365, SharePoint, Intune, Entra ID, Exchange Online, AWS, Route 53, and 3CX Phone System. By night I build AI-powered applications and trained ML models, working toward a career in AI & Cloud Engineering. Open to collaborating on interesting projects.
 
 ---
+<!--
 ## 🤖 My AI Pyramid — Tier and Tried 2026
 
 
@@ -69,8 +70,7 @@ I'm an **IT Systems Professional & AI enthusiast** based in Wollongong, NSW. By 
   <img src="https://avatars.slack-edge.com/2025-07-24/9261620439281_18f0c91f33b679a760a7_512.png" width="30px" title="Apify" />
   <img src="https://camo.githubusercontent.com/af82a0c6711cdd7d0af22cd01a087bd23bcc933c5b6fb9d72fb6c34e0c89441c/68747470733a2f2f63646e2e766f696365666c6f772e636f6d2f6173736574732f6c6f676f2e706e67" width="30px" title="Voiceflow" />
 </p>
-
----
+-->
 
 ## Skill Set 💪
 
