@@ -110,7 +110,7 @@ These are the major technologies I work with or have built on:
 
 ## Certifications 🏆
 
-<a href="https://www.credly.com/badges/6fc4e774-ea9f-440a-8c65-f74231649581/public_url"><img title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100px" src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-ai-practitioner.svg"></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/44c886b3-dc21-44d4-984c-48855292d098/public_url"><img title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100px" src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-cloud-practitioner.svg"></a>
+<a href="https://www.credly.com/badges/44c886b3-dc21-44d4-984c-48855292d098/public_url"><img title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100px" src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-cloud-practitioner.svg"></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/6fc4e774-ea9f-440a-8c65-f74231649581/public_url"><img title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100px" src="https://raw.githubusercontent.com/turboBasic/aws-certification-badges/main/assets/vector%20rendered/aws-certified-ai-practitioner.svg"></a>
 
 ---
 
