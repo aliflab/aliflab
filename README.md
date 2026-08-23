@@ -127,7 +127,7 @@ These are the major technologies I work with or have built on:
 
 ## Let's Connect 🤝
 
-<a href="https://thealiflab.github.io/"><img src="https://img.icons8.com/?size=100&id=tz3g4rdhmLr6&format=png&color=000000" width="40px"></a>|<a href="https://www.linkedin.com/in/alif09/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40px"></a>|<a href="https://www.instagram.com/thealiflab/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40px"></a>
+<a href="https://aliflab.github.io/"><img src="https://img.icons8.com/?size=100&id=tz3g4rdhmLr6&format=png&color=000000" width="40px"></a>|<a href="https://www.linkedin.com/in/alif09/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40px"></a>|<a href="https://www.instagram.com/thealiflab/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40px"></a>
 |--|--|--|
 
 
