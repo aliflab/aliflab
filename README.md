@@ -1,6 +1,8 @@
 # Hi There, I'm Alif <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm an **IT Systems Professional & AI enthusiast** based in Wollongong, NSW. By day I manage enterprise IT infrastructure across multiple brand entities, overseeing Microsoft 365, SharePoint, Intune, Entra ID, Exchange Online, AWS, Route 53, and 3CX Phone System. By night I build AI-powered applications and trained ML models, working toward a career in AI & Cloud Engineering. Open to collaborating on interesting projects.
+I am an **IT and cloud engineer** based in Wollongong, NSW. I design, run, and secure the technology behind a multi-site, multi-brand organisation, covering Microsoft 365 (Exchange Online, SharePoint, Teams, Intune, and Entra ID), AWS cloud, 3CX telephony, and the networking that connects each location. Security is part of my daily work: managing access, securing devices, protecting the network, and responding when something goes wrong.
+
+I lead AI adoption in the organisation, from rolling out Microsoft Copilot to introducing Claude, and I manage how AI assistants and agents are deployed, governed, and used. I build AI-powered applications and automation that solve practical operational problems, backed by a Master of Computer Science in Machine Learning and Big Data Analytics from the University of Wollongong. I am open to collaborating on AI, cloud, and security projects.
 
 ---
 <!--
